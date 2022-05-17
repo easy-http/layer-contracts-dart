@@ -1,6 +1,6 @@
-name: layer_contracts_dart
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+name: layer_contracts
+description: Http layer contracts for Dart clients
+version: 0.1.0
 # homepage: https://www.example.com
 
 environment:
